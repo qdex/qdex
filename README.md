@@ -2,10 +2,15 @@
   <img src="https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif" width="100"/>
 </div>
 <br>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-%23229ED9?logo=telegram&logoColor=%23FFFFFF&color=%23229ED9&link=https%3A%2F%2Ft.me%2Fallusen" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/hh%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%23d20a11?logo=headhunter&logoColor=%23FFFFFF&color=%23d20a11&link=https%3A%2F%2Fhh.ru%2Fresume%2Fc19b96b1ff0ba1f0e90039ed1f6b7173525a7a" alt="hh Badge"/>
+<div id="badges">
+  <a href="https://t.me/allusen">
+    <img src="https://img.shields.io/badge/Telegram-%23229ED9?logo=telegram&logoColor=%23FFFFFF&color=%23229ED9&link=https%3A%2F%2Ft.me%2Fallusen" alt="Telegram Badge"/>
+  </a>
+  <a href="https://hh.ru/resume/c19b96b1ff0ba1f0e90039ed1f6b7173525a7a">
+    <img src="https://img.shields.io/badge/hh%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%23d20a11?logo=headhunter&logoColor=%23FFFFFF&color=%23d20a11&link=https%3A%2F%2Fhh.ru%2Fresume%2Fc19b96b1ff0ba1f0e90039ed1f6b7173525a7a" alt="hh Badge"/>
+  </a>
 </div>
+
 <hr>
 
 ### Hi there 👋
